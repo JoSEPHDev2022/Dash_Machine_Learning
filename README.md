@@ -36,13 +36,13 @@ Neste repositório, você vai encontrar:
 
 > Uma pasta chamada **Dashboards** que possui os arquivos brutos do report inicial gerado pelo Jupyter, *clusters_report.pbix*, assim como o Dashboard final (criado após manipulação pelo Power BI Desktop), *clusters_report_final.pbix*;
 >
-> Um arquivo chamado **report.ipynb** que contém o Notebook com a linguagem Python para procedimentos de Machine-Learning e plot inicial do Dashboard;
+> Uma pasta chamada **Projeto Jupyter** que contém o Notebook com a linguagem Python para procedimentos de Machine-Learning e plot inicial do Dashboard;
 >
 > Uma pasta chamada **Dados** que contém o arquivo bruto incial dos dados, *dados_clientes.csv*, assim como o arquivo final criado após a clusterização, *segmentos_clientes.csv*.
 
 ## Utilização e Avisos ⚠️
 
-Como a utilização do pacote do Power BI pelo Python dentro do jupyter requer que o usuário possua conta coorporativa ou de estudante no Power BI, talvez você não seja capaz de executar as células no Jupyter Notebook  **report.ipynb** para a criação do Dashboard.
+Como a utilização do pacote do Power BI pelo Python dentro do jupyter requer que o usuário possua conta coorporativa ou de estudante no Power BI, talvez você não seja capaz de executar as células no Jupyter Notebook  **report.ipynb** para a criação do Dashboard. De qualquer forma, o Dashboard gerado pelo Jupyter já foi apresentado na seção de **Objetivos** deste README.
 
 
 ## Contatos 📧
