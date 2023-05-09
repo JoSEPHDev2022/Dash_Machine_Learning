@@ -1,5 +1,5 @@
 <kbd><img
-src="C:\Users\jr_fe\OneDrive\Documentos\PowerBI_DSA\Cap_16_Machine_Learning\banner\machine_learning_banner.jpg" width=1000 height=350></kbd>
+src="https://github.com/JoSEPHDev2022/Dash_Machine_Learning/blob/master/images/machine_learning_banner.jpg?raw=true" width=1000 height=350></kbd>
 
 <h1>
     <p align="center">
@@ -14,7 +14,7 @@ Nesse projeto, como parte de minha formação pela Data Science Academy, utilize
 - Dashboard criado dentro do Jupyter Notebook utilizando o novo pacote do Power BI:
 
 <kbd><img
-src="C:\Users\jr_fe\OneDrive\Documentos\PowerBI_DSA\Cap_16_Machine_Learning\banner\dash_jupyter.png" width=1000 height=350></kbd>
+src="https://github.com/JoSEPHDev2022/Dash_Machine_Learning/blob/master/images/dash_jupyter.png?raw=true" width=1000 height=350></kbd>
 
 Os dados coletados apontam o comportamento fictício de clientes, onde, utilizando de algoritimo de clusterização, dividimos esses clientes em 3 segmentos, o que possibilita uma melhor compreensão de seus comportamentos e hábitos de compra por parte da empresa.
 
@@ -24,7 +24,7 @@ Como o foco do projeto foi na compreensão e aplicação das técnicas de Machin
 
 - Dashboard Final após manipulação no Power BI Desktop:
 
-<img src="C:\Users\jr_fe\OneDrive\Documentos\PowerBI_DSA\Cap_16_Machine_Learning\banner\dash_final.png" width=1500 height=450>
+<img src="https://github.com/JoSEPHDev2022/Dash_Machine_Learning/blob/master/images/dash_final.png?raw=true" width=1500 height=450>
 
 ## Tecnologias Utilizadas 💻
 
